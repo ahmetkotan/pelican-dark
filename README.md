@@ -36,6 +36,12 @@ Pelican [documentation](http://docs.getpelican.com/en/latest/)
 | GITHUB_ADD				| TEXT		 | Github					 |
 | STACK_ADD					| TEXT		 | Stack Overflow			 |
 
+| Config                    | Type       | Description               |
+| ------------------------- | ---------- | ------------------------- |
+| DISQUS_SITENAME			| TEXT		 | Disqus					 |
+| GOOGLE_ANALYTICS			| TEXT 		 | Google Analytic 			 |
+
+
 ## Demo
 [ahmetkotan.com.tr](http://ahmetkotan.com.tr)
 
